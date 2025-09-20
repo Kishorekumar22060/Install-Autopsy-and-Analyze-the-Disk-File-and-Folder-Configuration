@@ -52,16 +52,16 @@ Export or recover files if required for the investigation.
 
 ## OUTPUT:
 <img width="1898" height="955" alt="436824504-f59bf54d-2fe1-4e89-8647-87e4f961686f" src="https://github.com/user-attachments/assets/550b1b99-d002-45e0-a321-c2028ad59b3a" />
-<img width="975" height="384" alt="436826032-6903c170-1426-423a-9844-60121b584469" src="https://github.com/user-attachments/assets/dbe0e1d8-c1b7-4639-823c-46954f517076" />
-![WhatsApp Image 2025-09-20 at 14 37 15 (1)](https://github.com/user-attachments/assets/be197f18-abc4-4993-9c9c-6e533a16e01a)
-![WhatsApp Image 2025-09-20 at 14 37 15 (2)](https://github.com/user-attachments/assets/d0e38efa-a9d5-42a4-a22f-37358d92f773)
-![WhatsApp Image 2025-09-20 at 14 37 15](https://github.com/user-attachments/assets/be900904-22ce-4953-a3a9-4d652e631f17)
-![WhatsApp Image 2025-09-20 at 14 37 15](https://github.com/user-attachments/assets/404d95d7-18ea-48d5-8559-8f81a7b729d8)
 
-<img width="1670" height="953" alt="435598964-662b99bf-a610-4ca0-b243-284d9642df7c-2" src="https://github.com/user-attachments/assets/849f29db-aa3a-49de-a0f7-316d579c6414" />
+![WhatsApp Image 2025-09-20 at 14 37 15 (1)](https://github.com/user-attachments/assets/f04be898-5bc3-4116-bac2-a5ce39092210)
+![WhatsApp Image 2025-09-20 at 14 37 15 (2)](https://github.com/user-attachments/assets/568085e9-89be-4fac-85b1-c72e26d373a1)
+![WhatsApp Image 2025-09-20 at 14 37 15](https://github.com/user-attachments/assets/1fc01426-4a35-4968-a77b-03153b331ba6)
+![WhatsApp Image 2025-09-20 at 14 37 18](https://github.com/user-attachments/assets/9d0765d6-477f-49cd-8129-1e3de4a8e606)
 
-<img width="1914" height="930" alt="435599647-3a049473-4ab8-4edf-8568-b711701bbb4c" src="https://github.com/user-attachments/assets/3b498b32-aa08-4899-a5fa-7d645452e09a" />
-<img width="1917" height="874" alt="435599822-eba10265-f48c-47cc-861f-24a83bb72b10" src="https://github.com/user-attachments/assets/f39f85e1-12b1-47e9-a947-809b6cb36543" />
+
+<img width="1914" height="930" alt="3 6" src="https://github.com/user-attachments/assets/0410bcf7-809b-4e94-952e-26f7baa2f053" />
+<img width="887" height="473" alt="Screenshot 2025-09-20 at 8 52 50 PM" src="https://github.com/user-attachments/assets/94d8a5a6-2346-4001-9267-60e5f0569529" />
+<img width="1917" height="874" alt="3 7" src="https://github.com/user-attachments/assets/aee6d822-9368-4012-b049-7db8cd87ef2d" />
 
 
 ## RESULT:
